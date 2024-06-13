@@ -22,3 +22,8 @@
 <p align="center">
 <img src="./assets/poster.drawio (3).png" alt="BiodivX Logo" width="600"/>
 </p>
+<ul>
+<li> <span style="color:blue">  User Inputs (Blue)</span> User selects the model to use, uploads an audio file and chooses the time interval of interest.  </li>
+<li> <span style="color:green"> Processing (Green)</span> Audio class and bird species are inference using the model. Model inference results, waveform and mel-spectrogram of the audio are displayed. </li>
+<li>  <span style="color:red"> Bird Gallery (Red)</span>  Picture of the predicted bird species are displayed for better understanding the inference result. The picture of birds were fetched via the ebird API. </li>
+</ul>
