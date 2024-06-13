@@ -15,7 +15,9 @@
 </ul>
 <h1> Model - Performance </h1>
 <p align="center">
-<img src="./assets/training.png" alt="BiodivX Logo" width="600"/>
+<img src="./assets/trloss.png" alt="BiodivX Logo" width="300"/>
+<img src="./assets/valscore.png" alt="BiodivX Logo" width="300"/>
+
 </p>
 
 <h1> Huggingface Workflow (Gradio) </h1>
