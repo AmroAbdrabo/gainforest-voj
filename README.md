@@ -15,8 +15,8 @@
 </ul>
 <h1> Model - Performance </h1>
 <p align="center">
-<img src="./assets/trloss.png" alt="BiodivX Logo" width="300"/>
-<img src="./assets/valscore.png" alt="BiodivX Logo" width="300"/>
+<img src="./assets/trloss.png" alt="BiodivX Logo" width="350"/>
+<img src="./assets/valscore.png" alt="BiodivX Logo" width="350"/>
 
 </p>
 
